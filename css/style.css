@@ -1,0 +1,22 @@
+#custom_mails_content_left {
+	width: 82%;
+	float: left;
+}
+
+#custom_mails_content_right {
+	text-align: center;
+	width: 18%;
+	float: right;
+}
+
+#custom_mails_content_right_inner {
+	padding: 0 15px;
+}
+
+#custom_mails_content_right_inner button, #custom_mails_content_right_inner select {
+	width: 100%;
+}
+
+.wp-editor-area {
+	min-height: 650px;
+}
